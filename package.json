@@ -6,7 +6,7 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "fs": "^0.0.1-security",
-    "himalaya": "^0.2.3",
+    "himalaya": "^1.0.0",
     "request": "^2.79.0",
     "strip-tags": "^0.1.1",
     "striptags": "^3.0.1",
