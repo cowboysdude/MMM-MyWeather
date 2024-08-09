@@ -4,7 +4,7 @@
   "description": "",
   "main": "MMM-MyWeather.js",
   "dependencies": {
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0",
     "fs": "^0.0.1-security",
     "himalaya": "^1.0.0",
     "request": "^2.79.0",
